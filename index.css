@@ -1,3 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+	background-color: #CCC;
+	border: thick solid #000;
+	margin: 10%;
+}
+h4 {
+	font-weight: normal;
+	color: #000;
+}
+
+h1 {
+	color: #900;
+}
