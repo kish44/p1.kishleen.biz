@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Project 1</title>
 
-<link href="../../../Users/kishleen/Desktop/php/index.css" rel="stylesheet" type="text/css">
+<link href="index.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
