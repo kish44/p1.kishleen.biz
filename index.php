@@ -1,10 +1,9 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Project 1</title>
-
-<link href="index.css" rel="stylesheet" type="text/css">
+  <meta charset="utf-8">
+  <title>Project 1</title>
+  <link href="index.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
