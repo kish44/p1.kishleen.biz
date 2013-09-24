@@ -8,10 +8,10 @@
 </head>
 
 <body>
-<h1>Welcome to p1</h1>
-<h2>Kishleen Saini</h2> 
-<h3>Bio</h3>
-I am majoring in Digital Media and Instructional Design. I am currently living in Long Island, New York. I have a Associate degree in Web Design. I wish to make a career in Digital Media. I hope to learn a lot in this class.
-<h4>Code Editor I am using is Dreamweaver</h4>
+  <h1>Welcome to p1</h1>
+  <h2>Kishleen Saini</h2> 
+  <h3>Bio</h3>
+  <p>I am majoring in Digital Media and Instructional Design. I am currently living in Long Island, New York. I have a Associate degree in Web Design. I wish to make a career in Digital Media. I hope to learn a lot in this class.</p>
+  <h4>Code Editor I am using is Dreamweaver</h4>
 </body>
 </html>
